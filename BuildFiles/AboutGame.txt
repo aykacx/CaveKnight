@@ -1,0 +1,18 @@
+Cave knight is a beauitful action platformer for all ages. Explore vast levels filled with secrets, quests, and loot. 
+Fight with the goblins, skeletons, and the monster birds and shut them out.
+
+ Features:
+*Secret areas in every level.
+*Smooth movement, animation and effects.
+*Action-Packed Levels.
+
+
+
+TÜRKÇE:
+Cave Knight, Her yaş için akıcı bir aksiyon platform oyunudur. Gizem, görevler ve ganimetlerle dolu geniş seviyeleri keşfedin.
+Goblinler, iskeletler ve mutant kuşlarla savaşın ve onları alt edin.
+
+ Özellikler:
+*Her seviyede gizemli bölgeler.
+*Akıcı grafikler, hareket, animasyon ve efektler.
+*Aksion dolu seviyeler
